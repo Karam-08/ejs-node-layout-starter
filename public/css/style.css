@@ -19,6 +19,9 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
+#branding{
+  margin-top: 20px;
+}
 main {
   max-width: 800px;
   margin: 2rem auto;

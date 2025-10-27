@@ -22,17 +22,25 @@ const jsonData = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
 
 app.get("/", (req, res) => {
   res.render("index", {
-    title: "EJS Layout Starter",
-    items: jsonData.items,
+    title: "EJS Template Mastery Project",
+    items: jsonData.items
   });
 });
 
 app.get("/about", (req, res) => {
-  res.render("index", {
+  res.render("about", {
     title: "About This Project",
     items: [],
   });
 });
+
+app.get("/products", (req, res) =>{
+  res.render("products", {
+    title: "Product List", 
+    items: jsonData.items
+  }); 
+});
+
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () =>
