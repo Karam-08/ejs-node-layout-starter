@@ -1,0 +1,102 @@
+{
+  "dishes": [
+    {
+      "name": "Garlic Bread Loaf", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWR_MG_3894-copy.jpg", 
+      "price": "Half: $6.99 | Full: $9.99", 
+      "desc": "Open-faced load of ciabatta bread with garlic butter schmear. Try it with melted mozzarella or add Pizza sauce!",
+      "category": "Starters"
+    },
+    { 
+      "name": "Marinara & Meatballs", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2020/04/LXVPHOTO-LWR_MG_0639.jpg", 
+      "price": "$14.99", 
+      "desc": "(4) house-made, hand rolled Tagliani Meatballs with your choice of sauce.",
+      "category": "Starters"
+    },
+    { 
+      "name": "Today's Soup", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2020/06/LXVPHOTO-LWR_MG_4696.jpg", 
+      "price": "$13.99", 
+      "desc": "New way, Every day - Clam Chowder Friday!",
+      "category": "Soups"
+    },
+    { 
+      "name": "Minestrome", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWR_MG_0058.jpg", 
+      "price": "$13.99", 
+      "desc": "Comforting and hearty Italian vegetable soup with beans, onions, celery, carrots, chicken stock, and tomatoes. Served in Cup or Bowl.",
+      "category": "Soups"
+    },
+    { 
+      "name": "Caprese Salad", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWRDSC02607.jpg", 
+      "price": "$", 
+      "desc": "Tomatoes, fresh mozzarella, basil leaves, and balsamic reduction sauce.",
+      "category": "Salads"
+    },
+    { 
+      "name": "Antipasto Salad", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWRIMG_9617-1.jpg", 
+      "price": "$", 
+      "desc": "Mixed greens, pepperoni, prosciutto, macaroni, mozzarella, melon, artichokes, and olives with Italian dressing.",
+      "category": "Salads"
+    },
+    { 
+      "name": "Shrimp Roll", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2021/02/LXVPHOTO-LWRLXVC7106.jpg", 
+      "price": "", 
+      "desc": "Rock Shrimp in lemon aioli, lettuce, and tomato on a hoagie roll.", 
+      "category": "Sandwiches" 
+    },
+    { 
+      "name": "Chicken Parmesan Sandwich", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/06/LXVPHOTO-LWR_MG_9409.jpg", 
+      "price": "", 
+      "desc": "Mama's Chicken Parmesan sandwich perched up high on top of a cozy nest of marinara and melted mozzarella, on a fresh baked bun or choice of bread, add basil and Parmesan.", 
+      "category": "Sandwiches" 
+    },
+    { 
+      "name": "Calamari Fritti", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWR_MG_0310-700x467.jpg", 
+      "price": "$", 
+      "desc": "Calamari strips breaded with crispy panko, served with Spicy cocktail & marinara or Mediterranean style (Lemon-caper butter, Kalamata Olives, and Feta Cheese).", 
+      "category": "Seafood" 
+    },
+    { 
+      "name": "Lobster Mac & Cheese", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2021/01/LXVPHOTO-LWR_MG_1576-700x467.jpg", 
+      "price": "$", 
+      "desc": "5 oz. Lobster meat swimming in our Cheddar-fredo, macaroni pasta, and topped with melted Cheddar cheese. Includes a soup or salad option.", 
+      "category": "Seafood" 
+    },
+    { 
+      "name": "", 
+      "image": "", 
+      "price": "$", 
+      "desc": "", 
+      "category": "Pizza" 
+    },
+    { 
+      "name": "", 
+      "image": "", 
+      "price": "$", 
+      "desc": "", 
+      "category": "Pizza" 
+    },
+    { 
+      "name": "Chocolate Chip Canolis & Cookies", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWRIMG_9027.jpg", 
+      "price": "$5.99", 
+      "desc": "Crispy Canoli shell with fresh sweet ricotta, almonds, and chocolate chips.", 
+      "category": "Desserts" 
+    },
+    { 
+      "name": "Tiramisu", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2021/03/LXVPHOTO-LWR_MG_9573-1536x1024.jpg", 
+      "price": "Half: $6.99 | Full: $10.99", 
+      "desc": "Ladyfinger cookies dipped in coffee liqueur and espresso, layered in a sweet cream Mascarpone cheese, and coated with dark cocoa.", 
+      "category": "Desserts" 
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<section class="content">
+  <h2><%= title %></h2>
+  <% if (items && items.length > 0) { %>
+    <ul>
+      <% items.forEach(item => { %>
+        <%- include('partials/card', { item: item }) %>
+      <% }) %>
+    </ul>
+  <% } else { %>
+    <p>No dishes to display.</p>
+  <% } %>
+</section>

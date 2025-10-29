@@ -17,27 +17,30 @@ app.set("layout", "layout");
 
 app.use(express.static(path.join(__dirname, "public")));
 
-const dataPath = path.join(__dirname, "data", "sample.json");
-const jsonData = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
+const menuItems = path.join(__dirname, "data", "menu.json");
+const menu = JSON.parse(fs.readFileSync(menuItems, "utf-8"));
+
+const contributorData = path.join(__dirname, "data", "contributors.json");
+const contributors = JSON.parse(fs.readFileSync(contributorData, "utf-8"));
 
 app.get("/", (req, res) => {
   res.render("index", {
-    title: "EJS Template Mastery Project",
-    items: jsonData.items
+    title: "Cucina Tagiliani's",
+    items: []
   });
 });
 
 app.get("/about", (req, res) => {
   res.render("about", {
     title: "About This Project",
-    items: [],
+    people: contributors.people
   });
 });
 
-app.get("/products", (req, res) =>{
-  res.render("products", {
-    title: "Product List", 
-    items: jsonData.items
+app.get("/menu", (req, res) =>{
+  res.render("menu", {
+    title: "Menu", 
+    items: menu.dishes
   }); 
 });
 

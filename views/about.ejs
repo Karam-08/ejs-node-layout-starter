@@ -1,4 +1,18 @@
 <section class="content">
     <h2>About</h2>
-    <p>This website was made to help gain experience with EJS.</p>
+    <p>This website was made to to demonstrate my understanding of EJS templates, partials, layouts, and dynamic rendering.</p>
+    <p>I also like the restaurant Tagliani so I'm making my website about the restaurant.</p>
+    <p>If you're in Glendale, AZ you should go there sometime.</p>
+    <h3>Contributors</h3>
+        <% if (people && people.length > 0) { %>
+        <ul>
+        <% people.forEach(person => { %>
+            <li>
+                <strong><%= person.name %></strong> - <%= person.email %> 
+            </li>
+        <% }) %>
+        </ul>
+    <% } else { %>
+        <p>No contributors to display.</p>
+    <% } %>
 </section>
