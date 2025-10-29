@@ -1,5 +1,7 @@
 {
     "people": [
-        {"name": "Karam Abbas", "email": "kabbas332@west-MEC.org"}
+        {"name": "Karam Abbas", "email": "kabbas332@west-MEC.org", "roles": "Developer, Designer"},
+        {"name": "Khadeem Bernard", "email": "khadeem.bernard@west-mec.org", "roles": "Mentor, Gave Template"},
+        {"name": "https://cucinatagliani.com", "email": "glendale@cucinatagliani.com", "roles": "Inspiration, Menu"}
     ]
 }

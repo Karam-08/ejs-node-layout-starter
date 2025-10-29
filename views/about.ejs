@@ -8,7 +8,8 @@
         <ul>
         <% people.forEach(person => { %>
             <li>
-                <strong><%= person.name %></strong> - <%= person.email %> 
+                <strong><%= person.name %></strong> - <%= person.email %>
+                <p><i><strong>Roles: </strong><%= person.roles %></i></p>
             </li>
         <% }) %>
         </ul>
