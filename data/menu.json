@@ -17,14 +17,14 @@
     { 
       "name": "Today's Soup", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2020/06/LXVPHOTO-LWR_MG_4696.jpg", 
-      "price": "$13.99", 
+      "price": "$13.99 Unlimited Refills, Dine in Only.", 
       "desc": "New way, Every day - Clam Chowder Friday!",
       "category": "Soups"
     },
     { 
       "name": "Minestrome", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWR_MG_0058.jpg", 
-      "price": "$13.99", 
+      "price": "$13.99 Unlimited Refills, Dine in Only.", 
       "desc": "Comforting and hearty Italian vegetable soup with beans, onions, celery, carrots, chicken stock, and tomatoes. Served in Cup or Bowl.",
       "category": "Soups"
     },
@@ -38,15 +38,15 @@
     { 
       "name": "Antipasto Salad", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWRIMG_9617-1.jpg", 
-      "price": "$", 
-      "desc": "Mixed greens, pepperoni, prosciutto, macaroni, mozzarella, melon, artichokes, and olives with Italian dressing.",
+      "price": "$13.99 SML | $17.99 MED | $23.99 LRG.", 
+      "desc": "Mixed greens, pepperoni, prosciutto, macaroni, mozzarella, melon, artichokes, and olives with Italian dressing. REG & LRG sizes includes a choice of soup.",
       "category": "Salads"
     },
     { 
-      "name": "Shrimp Roll", 
+      "name": "Seafood Roll", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2021/02/LXVPHOTO-LWRLXVC7106.jpg", 
-      "price": "", 
-      "desc": "Rock Shrimp in lemon aioli, lettuce, and tomato on a hoagie roll.", 
+      "price": "$20.99 REG | $30.99 LRG", 
+      "desc": "Choose either Rock Shrimp or Lobster served hot or cold in lemon aioli, lettuce, and tomato on a toasted garlic hoagie roll. Comes with a soup, salad, fries, tots, or fruits.", 
       "category": "Sandwiches" 
     },
     { 
@@ -59,33 +59,33 @@
     { 
       "name": "Calamari Fritti", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWR_MG_0310-700x467.jpg", 
-      "price": "$", 
+      "price": "$14.99", 
       "desc": "Calamari strips breaded with crispy panko, served with Spicy cocktail & marinara or Mediterranean style (Lemon-caper butter, Kalamata Olives, and Feta Cheese).", 
       "category": "Seafood" 
     },
     { 
       "name": "Lobster Mac & Cheese", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2021/01/LXVPHOTO-LWR_MG_1576-700x467.jpg", 
-      "price": "$", 
+      "price": "$25.99 REG | 29.99 LRG", 
       "desc": "5 oz. Lobster meat swimming in our Cheddar-fredo, macaroni pasta, and topped with melted Cheddar cheese. Includes a soup or salad option.", 
       "category": "Seafood" 
     },
     { 
-      "name": "", 
-      "image": "", 
-      "price": "$", 
-      "desc": "", 
+      "name": "Margherita Pizza", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWRDSC02531.jpg", 
+      "price": "8'', $16.99 | 12'', $20.99 | 16'', $25.99", 
+      "desc": "Choose sliced tomatoes or pizza sauce, olive oil, fresh mozzarella, parmesan, fresh julienned basil leaves.", 
       "category": "Pizza" 
     },
     { 
-      "name": "", 
-      "image": "", 
-      "price": "$", 
-      "desc": "", 
+      "name": "Garlic Chicken Pizza", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/10/LXVPHOTO-LWR_MG_8339.jpg", 
+      "price": "8'', $16.99 | 12'', $20.99 | 16'', $25.99", 
+      "desc": "Pesto Alla Genovese, Mozzarella, sliced Grilled Chicken, Garlic, Sautéed Red Onion, Mushrooms, Basil, Oregano, and Thyme, shaved Parmigiano-Reggiano Parmesan Cheese.", 
       "category": "Pizza" 
     },
     { 
-      "name": "Chocolate Chip Canolis & Cookies", 
+      "name": "Chocolate Chip Canoli & Cookies", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWRIMG_9027.jpg", 
       "price": "$5.99", 
       "desc": "Crispy Canoli shell with fresh sweet ricotta, almonds, and chocolate chips.", 
