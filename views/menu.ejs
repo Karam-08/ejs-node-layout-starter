@@ -1,8 +1,6 @@
 <section class="content">
   <h2><%= title %></h2>
   <% if (items && items.length > 0) { %>
-    <input type="text" id="search" placeholder="Search dishes">
-    <button onclick="searchDishes()">Search</button>
     <ul id="product-gallery">
       <% items.forEach(item => { %>
         <%- include('partials/card', { item: item }) %>

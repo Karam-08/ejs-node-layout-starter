@@ -27,8 +27,7 @@ app.get("/", (req, res) => {
   res.render("index", {
     title: "Cucina Tagiliani's",
     items: [],
-    css: "/css/style.css",
-    js: "/js/main.js"
+    css: "/css/style.css"
   });
 });
 
@@ -36,8 +35,7 @@ app.get("/about", (req, res) => {
   res.render("about", {
     title: "About This Project",
     people: contributors.people,
-    css: "/css/style.css",
-    js: "/js/main.js"
+    css: "/css/style.css"
   });
 });
 
@@ -45,11 +43,9 @@ app.get("/menu", (req, res) =>{
   res.render("menu", {
     title: "Menu", 
     items: menu.dishes,
-    css: "/css/menu.css",
-    js: "/js/menu.js"
+    css: "/css/menu.css"
   }); 
 });
-
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () =>
