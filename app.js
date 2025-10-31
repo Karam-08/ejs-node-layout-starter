@@ -26,21 +26,27 @@ const contributors = JSON.parse(fs.readFileSync(contributorData, "utf-8"));
 app.get("/", (req, res) => {
   res.render("index", {
     title: "Cucina Tagiliani's",
-    items: []
+    items: [],
+    css: "/css/style.css",
+    js: "/js/main.js"
   });
 });
 
 app.get("/about", (req, res) => {
   res.render("about", {
     title: "About This Project",
-    people: contributors.people
+    people: contributors.people,
+    css: "/css/style.css",
+    js: "/js/main.js"
   });
 });
 
 app.get("/menu", (req, res) =>{
   res.render("menu", {
     title: "Menu", 
-    items: menu.dishes
+    items: menu.dishes,
+    css: "/css/menu.css",
+    js: "/js/menu.js"
   }); 
 });
 

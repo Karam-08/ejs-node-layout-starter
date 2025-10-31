@@ -30,25 +30,3 @@ main {
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
-.product-card {
-  width: 50%;
-  margin: 0 auto;
-  text-align: center;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  padding: 1rem;
-  margin-bottom: 1rem;
-  background: #fafafa;
-}
-.product-card img{
-  border-radius: 8px;
-}
-.in-stock {
-  color: green;
-  font-weight: bold;
-}
-.out-stock {
-  color: red;
-  font-weight: bold;
-}
