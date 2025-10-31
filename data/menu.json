@@ -15,10 +15,17 @@
       "category": "Starters"
     },
     { 
+      "name": "Burrata Mozzarella", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2024/03/2024-03-09-LWR-LXVPHOTO-72ppi-1920-7753.jpg", 
+      "price": "$15.99", 
+      "desc": "Filled with shredded mozzarella and stracciatella cream. Comes with pesto, diced Roma tomatoes, salt & pepper, olive oil, balsamic dressing, and basil.",
+      "category": "Starters"
+    },
+    { 
       "name": "Today's Soup", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2020/06/LXVPHOTO-LWR_MG_4696.jpg", 
       "price": "$13.99 Unlimited Refills, Dine in Only.", 
-      "desc": "New way, Every day - Clam Chowder Friday!",
+      "desc": "New way, Every day! Ask your server about today's soup.",
       "category": "Soups"
     },
     { 
@@ -26,6 +33,13 @@
       "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWR_MG_0058.jpg", 
       "price": "$13.99 Unlimited Refills, Dine in Only.", 
       "desc": "Comforting and hearty Italian vegetable soup with beans, onions, celery, carrots, chicken stock, and tomatoes. Served in Cup or Bowl.",
+      "category": "Soups"
+    },
+    { 
+      "name": "Clam Chowder", 
+      "image": "https://s3-media0.fl.yelpcdn.com/bphoto/0ce8mbW32bEAtqfjvYqL9g/348s.jpg", 
+      "price": "$13.99 Unlimited Refills, Dine in Only.", 
+      "desc": "Comforting and hearty soup made with clams, potatoes, and onions. Served in Cup or Bowl.",
       "category": "Soups"
     },
     { 
@@ -43,6 +57,13 @@
       "category": "Salads"
     },
     { 
+      "name": "Iceberg Wedge Salad", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWR_MG_9209.jpg", 
+      "price": "$12.99 SML | $15.99 MED | $20.99 LRG.", 
+      "desc": "Quarter-sliced head of Iceberg Lettuce topped with tomatoes, scallions, bacon, and Gorgonzola cheese crumbles served with Bleu cheese dressing.",
+      "category": "Salads"
+    },
+    { 
       "name": "Seafood Roll", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2021/02/LXVPHOTO-LWRLXVC7106.jpg", 
       "price": "$20.99 REG | $30.99 LRG", 
@@ -54,6 +75,13 @@
       "image": "https://cucinatagliani.com/wp-content/uploads/2017/06/LXVPHOTO-LWR_MG_9409.jpg", 
       "price": "$17.99", 
       "desc": "Mama's Chicken Parmesan sandwich perched up high on top of a cozy nest of marinara and melted mozzarella, on a fresh baked bun or choice of bread, add basil and Parmesan.", 
+      "category": "Sandwiches" 
+    },
+    { 
+      "name": "Buffalo Chicken Wrap", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/10/LXVPHOTO-LWR_MG_1315-2-1.jpg", 
+      "price": "$18.99", 
+      "desc": "Something fresh with a crunch and a little kick to the head? Feast your eyes on the Buffalo Chicken Wrap! Chicken fritti strips, romaine lettuce, diced tomatoes, Tagliani house-made Buttermilk Ranch, Tagliani Buffalo Wing Sauce, sprinkled with parmesan and wrapped in a Spinach tortilla.", 
       "category": "Sandwiches" 
     },
     { 
@@ -85,7 +113,7 @@
       "category": "Pizza" 
     },
     { 
-      "name": "Chocolate Chip Canoli & Cookies", 
+      "name": "Chocolate Chip Canoli", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWRIMG_9027.jpg", 
       "price": "$5.99", 
       "desc": "Crispy Canoli shell with fresh sweet ricotta, almonds, and chocolate chips.", 

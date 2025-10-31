@@ -33,16 +33,16 @@ h2 {
   padding: 1rem;        
 }
 .product-card {
-  flex: 1 1 250px;        
-  max-width: 300px;      
+  flex: 1 1 calc(30% - 40px);
   text-align: center;
   border: 1px solid #ddd;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  padding: 1rem;
+  padding: 2rem;
   background: #fafafa;
 }
 .product-card img{
+  max-height: 200px;
+  border: 2px solid black;
   border-radius: 8px;
-  max-height: 150px;
 }
