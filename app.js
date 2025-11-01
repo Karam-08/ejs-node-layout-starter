@@ -25,9 +25,9 @@ const contributors = JSON.parse(fs.readFileSync(contributorData, "utf-8"));
 
 app.get("/", (req, res) => {
   res.render("index", {
-    title: "Cucina Tagiliani's",
+    title: "Cucina Tagiliani",
     items: [],
-    css: "/css/style.css"
+    css: "/css/style.css" // Allows for different CSS files
   });
 });
 

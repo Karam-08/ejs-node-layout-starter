@@ -1,5 +1,5 @@
 {
-  "dishes": [
+  "dishes": [ 
     {
       "name": "Garlic Bread Loaf", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWR_MG_3894-copy.jpg", 
@@ -67,14 +67,14 @@
       "name": "Seafood Roll", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2021/02/LXVPHOTO-LWRLXVC7106.jpg", 
       "price": "$20.99 REG | $30.99 LRG", 
-      "desc": "Choose either Rock Shrimp or Lobster served hot or cold in lemon aioli, lettuce, and tomato on a toasted garlic hoagie roll. Comes with a soup, salad, fries, tots, or fruits.", 
+      "desc": "Choose either Rock Shrimp or Lobster served hot or cold in lemon aioli, lettuce, and tomato on a toasted garlic hoagie roll. Comes with a soup, salad, fries, tots, or fruits. REG & LRG sizes includes a choice of soup.", 
       "category": "Sandwiches" 
     },
     { 
       "name": "Chicken Parmesan Sandwich", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2017/06/LXVPHOTO-LWR_MG_9409.jpg", 
       "price": "$17.99", 
-      "desc": "Mama's Chicken Parmesan sandwich perched up high on top of a cozy nest of marinara and melted mozzarella, on a fresh baked bun or choice of bread, add basil and Parmesan.", 
+      "desc": "Mama's Chicken Parmesan sandwich perched up high on top of a cozy nest of marinara and melted mozzarella, on a fresh baked bun or choice of bread with basil and Parmesan.", 
       "category": "Sandwiches" 
     },
     { 
@@ -99,6 +99,13 @@
       "category": "Seafood" 
     },
     { 
+      "name": "Shrimp Scampi", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWR_MG_0205-700x467.jpg", 
+      "price": "$29.99", 
+      "desc": "Shrimp sautéed in garlic, lemon-caper butter, basil & white wine over fettuccine.", 
+      "category": "Seafood" 
+    },
+    { 
       "name": "Margherita Pizza", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWRDSC02531.jpg", 
       "price": "8'', $16.99 | 12'', $20.99 | 16'', $25.99", 
@@ -109,7 +116,14 @@
       "name": "Garlic Chicken Pizza", 
       "image": "https://cucinatagliani.com/wp-content/uploads/2017/10/LXVPHOTO-LWR_MG_8339.jpg", 
       "price": "8'', $16.99 | 12'', $20.99 | 16'', $25.99", 
-      "desc": "Pesto Alla Genovese, Mozzarella, sliced Grilled Chicken, Garlic, Sautéed Red Onion, Mushrooms, Basil, Oregano, and Thyme, shaved Parmigiano-Reggiano Parmesan Cheese.", 
+      "desc": "Pesto Alla Genovese, Mozzarella, sliced Grilled Chicken, Garlic, Sautéed Red Onion, Mushrooms, Basil, Oregano, Thyme, and shaved Parmigiano-Reggiano Parmesan Cheese.", 
+      "category": "Pizza" 
+    },
+    { 
+      "name": "Cicero's Calzone", 
+      "image": "https://cucinatagliani.com/wp-content/uploads/2017/09/LXVPHOTO-LWR_MG_8602.jpg", 
+      "price": "$17.99", 
+      "desc": "Oven-baked Italian turnover with sausage, pepperoni, caramelized onion, black olives, mushrooms, mozzarella, and ricotta.", 
       "category": "Pizza" 
     },
     { 

@@ -4,7 +4,7 @@ A beginner-friendly Node.js + Express + EJS project using **express-ejs-layouts*
 
 ## Setup
 ```bash
-npm install
+npm install env ejs express nodemon
 npm run dev
 ```
 Visit [http://localhost:3000](http://localhost:3000).
